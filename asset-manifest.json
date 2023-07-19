@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/antibacti_web/static/css/main.d20202a4.css",
-    "main.js": "/antibacti_web/static/js/main.17c48323.js",
+    "main.js": "/antibacti_web/static/js/main.bf20d541.js",
     "static/js/787.3d5d7a04.chunk.js": "/antibacti_web/static/js/787.3d5d7a04.chunk.js",
     "static/media/app.jpg": "/antibacti_web/static/media/app.3be81c8128b22d129bd8.jpg",
     "static/media/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg": "/antibacti_web/static/media/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.8c4986ee4828b47d16f5cd694ef065f2.svg",
     "index.html": "/antibacti_web/index.html",
     "main.d20202a4.css.map": "/antibacti_web/static/css/main.d20202a4.css.map",
-    "main.17c48323.js.map": "/antibacti_web/static/js/main.17c48323.js.map",
+    "main.bf20d541.js.map": "/antibacti_web/static/js/main.bf20d541.js.map",
     "787.3d5d7a04.chunk.js.map": "/antibacti_web/static/js/787.3d5d7a04.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d20202a4.css",
-    "static/js/main.17c48323.js"
+    "static/js/main.bf20d541.js"
   ]
 }
