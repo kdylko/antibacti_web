@@ -1,24 +1,19 @@
-import logo from './logo.svg';
-import './App.css';
+//import logo from './logo.svg';
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import Main from './Main/Main'; // Import other pages/components as needed
+import Terms from './Terms/Terms'; // Import your new page component
+
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Router>
+      <Routes>
+        <Route exact path="/antibacti_web" element={<Main />} />
+        {/* Add other routes as needed */}
+        <Route path="/antibacti_web/terms" element={<Terms />} /> {/* New page route */}
+      </Routes>
+    </Router>
   );
 }
 
