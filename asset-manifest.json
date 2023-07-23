@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/antibacti_web/static/css/main.b81947cc.css",
-    "main.js": "/antibacti_web/static/js/main.f238c790.js",
+    "main.css": "/antibacti_web/static/css/main.55407bc0.css",
+    "main.js": "/antibacti_web/static/js/main.11f09e79.js",
     "static/js/787.3d5d7a04.chunk.js": "/antibacti_web/static/js/787.3d5d7a04.chunk.js",
     "static/media/AntiBactiApp_icon_for_iOS_app_in_high_resolution_humanization_b_8c783309-3130-4bec-8bae-6329d3478328 1.png": "/antibacti_web/static/media/AntiBactiApp_icon_for_iOS_app_in_high_resolution_humanization_b_8c783309-3130-4bec-8bae-6329d3478328 1.59d839f072eb611f4af7.png",
     "static/media/iphone.png": "/antibacti_web/static/media/iphone.dd39ddefa7e2ce5fed51.png",
     "static/media/google-play-badge 1.png": "/antibacti_web/static/media/google-play-badge 1.22fbb6472cbabc58f1b3.png",
     "static/media/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg": "/antibacti_web/static/media/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.8c4986ee4828b47d16f5cd694ef065f2.svg",
     "index.html": "/antibacti_web/index.html",
-    "main.b81947cc.css.map": "/antibacti_web/static/css/main.b81947cc.css.map",
-    "main.f238c790.js.map": "/antibacti_web/static/js/main.f238c790.js.map",
+    "main.55407bc0.css.map": "/antibacti_web/static/css/main.55407bc0.css.map",
+    "main.11f09e79.js.map": "/antibacti_web/static/js/main.11f09e79.js.map",
     "787.3d5d7a04.chunk.js.map": "/antibacti_web/static/js/787.3d5d7a04.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b81947cc.css",
-    "static/js/main.f238c790.js"
+    "static/css/main.55407bc0.css",
+    "static/js/main.11f09e79.js"
   ]
 }
