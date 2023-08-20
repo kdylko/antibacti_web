@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/antibacti_web/static/css/main.b11b5707.css",
-    "main.js": "/antibacti_web/static/js/main.29ee4bb0.js",
+    "main.js": "/antibacti_web/static/js/main.5f4b8f7b.js",
     "static/js/787.3d5d7a04.chunk.js": "/antibacti_web/static/js/787.3d5d7a04.chunk.js",
     "static/media/AntiBactiApp_icon_for_iOS_app_in_high_resolution_doctor_student_ddc9acb5-d797-4a38-b5ae-97bb25f24a8a 2.png": "/antibacti_web/static/media/AntiBactiApp_icon_for_iOS_app_in_high_resolution_doctor_student_ddc9acb5-d797-4a38-b5ae-97bb25f24a8a 2.83a0bf02ea1de768fecb.png",
     "static/media/Slide 1.png": "/antibacti_web/static/media/Slide 1.6a441c93b17cbcbdcd36.png",
@@ -11,11 +11,11 @@
     "static/media/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg": "/antibacti_web/static/media/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.8c4986ee4828b47d16f5cd694ef065f2.svg",
     "index.html": "/antibacti_web/index.html",
     "main.b11b5707.css.map": "/antibacti_web/static/css/main.b11b5707.css.map",
-    "main.29ee4bb0.js.map": "/antibacti_web/static/js/main.29ee4bb0.js.map",
+    "main.5f4b8f7b.js.map": "/antibacti_web/static/js/main.5f4b8f7b.js.map",
     "787.3d5d7a04.chunk.js.map": "/antibacti_web/static/js/787.3d5d7a04.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b11b5707.css",
-    "static/js/main.29ee4bb0.js"
+    "static/js/main.5f4b8f7b.js"
   ]
 }
