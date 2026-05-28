@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Store Compliance Notes
+
+- Google Play privacy URL: `https://kdylko.github.io/antibacti_web/privacy`
+- Google Play Data safety helper text: `PLAY_DATA_SAFETY.md`
+
 ## Available Scripts
 
 In the project directory, you can run:
