@@ -1,7 +1,7 @@
 # Google Play Data Safety (AntiBacti)
 
 This document is aligned with the current Privacy Policy page:
-`https://kdylko.github.io/antibacti_web/privacy`
+`https://<your-vercel-domain>/privacy`
 
 Use these points when filling the Google Play `Data safety` form.
 

@@ -2,9 +2,37 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Deploy on Vercel
+
+1. Push this repo to GitHub (if not already).
+2. Open [vercel.com](https://vercel.com) → **Add New Project** → import the repository.
+3. Vercel detects **Create React App** automatically:
+   - **Build Command:** `npm run build`
+   - **Output Directory:** `build`
+   - **Install Command:** `npm install`
+4. Deploy. After the first deploy, use your Vercel URL (for example `https://your-project.vercel.app`).
+
+**Local preview (production build):**
+
+```bash
+npm install
+npm run build
+npx serve -s build
+```
+
+Then open `http://localhost:3000` (or the port `serve` prints).
+
+**Routes:**
+
+- `/` — landing page
+- `/terms` — Terms of Use
+- `/privacy` — Privacy Policy (use this URL in Google Play Console)
+
+Optional: connect a custom domain in Vercel → **Project Settings → Domains**.
+
 ## Store Compliance Notes
 
-- Google Play privacy URL: `https://kdylko.github.io/antibacti_web/privacy`
+- Google Play privacy URL: `https://<your-vercel-domain>/privacy`
 - Google Play Data safety helper text: `PLAY_DATA_SAFETY.md`
 
 ## Available Scripts

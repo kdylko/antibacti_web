@@ -10,10 +10,9 @@ function App() {
   return (
     <Router>
       <Routes>
-        <Route exact path="/antibacti_web" element={<Main />} />
-        {/* Add other routes as needed */}
-        <Route path="/antibacti_web/terms" element={<Terms />} /> {/* New page route */}
-        <Route path="/antibacti_web/privacy" element={<Privacy />} />
+        <Route path="/" element={<Main />} />
+        <Route path="/terms" element={<Terms />} />
+        <Route path="/privacy" element={<Privacy />} />
       </Routes>
     </Router>
   );

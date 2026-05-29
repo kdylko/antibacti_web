@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import app from './app.jpg';
 import app_store from'./Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg';
 import play_market from'./google-play-badge.png';
@@ -26,7 +27,13 @@ function Main() {
               <img src={play_market} className="img-fluid" alt="Description" />
             </div>
           </div>
-          
+
+          <br></br>
+          <p>
+            <Link to="/terms">Terms of Use</Link>
+            {' | '}
+            <Link to="/privacy">Privacy Policy</Link>
+          </p>
         </div>
         <div className="col-2">
 
